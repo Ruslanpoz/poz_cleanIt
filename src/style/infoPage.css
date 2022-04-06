@@ -1,0 +1,24 @@
+#PageInfo{
+    background-color: #F4F5F7;
+}
+.InfoImg{
+    width: 220px;
+    height: 75px;
+    margin: 86px 0px 97px 131px;
+}
+.Contact{
+
+width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 400px;
+}
+.City{
+    width: 110px;
+    margin-top: 0px;
+    padding-top: 42px;
+}
+.Phone{
+    width: 200px;
+
+}

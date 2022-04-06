@@ -1,0 +1,101 @@
+.page {
+    height: 100%;
+    width: 100vw;
+    background-color: #F4F5F7;
+    background-image: url("../img/page/Path1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 0px;
+}
+
+.logo {
+    width: 217px;
+    height: 75px;
+    margin: 44px 361px 0px 131px;
+}
+
+.ul_header {
+    margin: 0px;
+    width: 100%;
+    padding: 0px;
+    list-style-type: none;
+    color: #593D3D;
+    display: flex;
+
+}
+
+.ul_header li {
+    margin: 73px 32px;
+    font: bold 18px/21px Raleway;
+}
+
+.btn_signup {
+    width: 106px;
+    height: 47px;
+    border: 2px solid white;
+    margin: 60px 139px 60px 61px;
+    font-size: 18px;
+    border-radius: 30px;
+    background-color: #6882EF;
+    color: white;
+}
+
+.always {
+    color: #FFD836;
+    margin: 0px 0px 0px 139px;
+    letter-spacing: 0px;
+    top: 236px;
+    left: 139px;
+    width: 304px;
+    height: 57px;
+    font: bold 49px/57px Raleway;
+}
+
+.home {
+    font: bold 49px/57px Raleway;
+    text-align: left;
+
+    color: #6882EF;
+    margin: 0px 0px 0px 139px;
+    padding-top: 0px;
+}
+
+p {
+    top: 358px;
+    left: 139px;
+    width: 374px;
+    text-align: left;
+    font: normal normal bold 15px Raleway;
+    letter-spacing: 0px;
+    color: #593D3D;
+    opacity: 1;
+    margin: 10px 0px 0px 139px;
+}
+
+.btn_book {
+    display: flex;
+    color: #FFFFFF;
+    text-align: left;
+    border: 1px solid #8DA3FF;
+    border-radius: 30px;
+    font: normal normal bold 24px Raleway;
+    padding: 15px 52px;
+    background: radial-gradient(circle at 90%,#6781EF 0%,#8DA3FF 100%);
+    margin: 100px 0px 0px 139px;
+}
+
+.ul_cleaning {
+    list-style-type: none;
+    justify-content: center;
+    display: flex;
+    margin-top: 65px;
+    margin-bottom: 0px;
+    padding: 65px 0px 65px 139px;
+    background-color: #6882EF;
+}
+
+.ul_cleaning li {
+    color: #FFFFFF;
+    font: normal normal bold 24px/29px Raleway;
+    margin-right: 118px;
+}

@@ -1,0 +1,68 @@
+.RegularlyPage {
+    background-color: #F4F5F7;
+    font-family: Raleway;
+    height: 559px;
+    padding-bottom: 0px;
+
+}
+.RegularlyImg{
+    width: 322px;
+    height: 398px;
+    margin: 95px 75px 65px 139px;
+}
+.DeepImg{
+    width: 371px;
+    height: 322px;
+    margin: 95px 75px 65px 139px;
+}
+.OfficeImg{
+    width: 270px;
+    height: 403px;
+    margin: 95px 75px 65px 139px;
+}
+.WindowsImg{
+    width: 316px;
+    height: 353px;
+    margin: 95px 75px 65px 139px;
+}
+div{
+    padding-bottom: 95px;
+
+}
+#text{
+    padding-top: 95px;
+    padding-bottom: 0px;
+}
+h1 {
+    display: flex;
+    color: #6882EF;
+    font-size: 49px;
+    margin-bottom: 27px;
+    margin-top: 0px;
+
+}
+h3 {
+    color: #6882EF;
+    width: 437px;
+
+    font-size: 16px;
+    display: flex;
+    margin-bottom: 27px;
+}
+h4 {
+    display: flex;
+    font-size: 14px;
+    width: 464px;
+    color: #593D3D;
+    margin-bottom: 39px;
+}
+.btn_cleaning{
+
+    font-size: 24px;
+    border: 1px solid;
+    border-radius: 30px;
+    padding: 16px 30px;
+    background: radial-gradient(circle at 90%,#6781EF 0%,#8DA3FF 100%);
+    color: #FFFFFF;
+    margin-bottom: 84px;
+}
